@@ -1,0 +1,132 @@
+[
+  {
+    "id": "gabigol",
+    "nome_popular": "Gabigol",
+    "image_url": "https://conteudo.imguol.com.br/c/esporte/5b/2024/10/26/gabigol-comemora-gol-marcado-pelo-flamengo-contra-o-juventude-pelo-brasileirao-1729977978665_v2_450x600.jpg",
+    "alcunha": "O Predestinado",
+    "bio_flamenguista": "Ícone de uma geração, Gabi transformou o 'hoje tem gol do Gabigol' em um mantra da Nação. Sua identificação com o clube vai além das quatro linhas, tornando-se o rosto da era mais vitoriosa do século XXI.",
+    "trajetoria": {
+      "chegada": "2019-01-08",
+      "origem": "Inter de Milão / Santos",
+      "status": "No elenco",
+      "numero_camisa": [
+        "9",
+        "10"
+      ]
+    },
+    "estatisticas_resumo": {
+      "posicao": "Atacante",
+      "pe_preferido": "Esquerdo",
+      "perfil_comportamental": "Decisivo em Finais"
+    },
+    "conquistas_ids": [
+      "carioca-2019",
+      "libertadores-2019",
+      "brasileirao-2019",
+      "supercopa-2020",
+      "recopa-2020",
+      "carioca-2020",
+      "brasileirao-2020",
+      "supercopa-2021",
+      "carioca-2021",
+      "libertadores-2022",
+      "copa-do-brasil-2022",
+      "carioca-2024"
+    ],
+    "curiosidade_comunidade": "Foi o autor dos dois gols mais rápidos e catárticos de uma final de Libertadores na história do clube (2019)."
+  },
+  {
+    "id": "pedro",
+    "nome_popular": "Pedro",
+    "image_url": "https://media.gettyimages.com/id/1499725120/pt/foto/rio-de-janeiro-brazil-february-1-pedro-guilherme-abreu-dos-santos-of-cr-flamengo-on-february-1.jpg?s=594x594&w=gi&k=20&c=Fz5i-snTGnqs4jDd86Ml8PZz-RXTOGKg_irH-iHdcyc=",
+    "alcunha": "O Queixada",
+    "bio_flamenguista": "A reverência em forma de gol. Pedro trouxe ao Flamengo a elegância do centroavante clássico que não perdoa. Sua capacidade de transformar lances difíceis em poesia visual o tornou o 'Rei da América' em 2022, reafirmando que o Rubro-Negrismo também se faz com classe e precisão milimétrica.",
+    "trajetoria": {
+      "chegada": "2020-01-23",
+      "origem": "Fiorentina",
+      "status": "No elenco",
+      "estilo": "Pivô e Finalização de Elite"
+    },
+    "estatisticas_resumo": {
+      "posicao": "Centroavante",
+      "pe_preferido": "Direito",
+      "especialidade": "Finalização e Domínio"
+    },
+    "conquistas_ids": [
+      "brasileirao-2020",
+      "recopa-2020",
+      "supercopa-2020",
+      "carioca-2020",
+      "supercopa-2021",
+      "carioca-2021",
+      "copa-do-brasil-2022",
+      "libertadores-2022",
+      "carioca-2024"
+    ],
+    "momento_chave": "Artilheiro isolado da Libertadores 2022 com 12 gols, coroado como o melhor jogador da competição."
+  },
+  {
+    "id": "bruno-henrique",
+    "nome_popular": "Bruno Henrique",
+    "alcunha": "O Rei da América",
+    "bio_flamenguista": "Sinônimo de 'Outro Patamar'. Bruno Henrique transformou a ponta-esquerda do Maracanã em seu quintal. Com uma velocidade absurda e um poder de decisão silencioso, ele foi o motor que impulsionou o Rubro-Negrismo ao topo do continente em 2019.",
+    "trajetoria": {
+      "chegada": "2019-01-23",
+      "origem": "Santos",
+      "status": "No elenco",
+      "frase_iconica": "Estamos em outro patamar."
+    },
+    "estatisticas_resumo": {
+      "posicao": "Atacante / Ponta",
+      "caracteristica": "Velocidade e Jogo Aéreo",
+      "pe_preferido": "Direito"
+    },
+    "conquistas_ids": [
+      "carioca-2019",
+      "libertadores-2019",
+      "brasileirao-2019",
+      "supercopa-2020",
+      "recopa-2020",
+      "carioca-2020",
+      "brasileirao-2020",
+      "supercopa-2021",
+      "carioca-2021",
+      "libertadores-2022",
+      "copa-do-brasil-2022",
+      "carioca-2024"
+    ],
+    "momento_chave": "Eleito o melhor jogador da Libertadores 2019 (Best of the Tournament)."
+  },
+  {
+    "id": "de-arrascaeta",
+    "nome_popular": "Arrascaeta",
+    "alcunha": "O Maestro",
+    "bio_flamenguista": "Onde ele coloca a bola, a poesia acontece. Arrascaeta trouxe o refinamento técnico que a Nação tanto preza. Sua visão de jogo e assistências decisivas são a engrenagem que faz o ataque rubro-negro funcionar com perfeição desde 2019.",
+    "trajetoria": {
+      "chegada": "2019-01-12",
+      "origem": "Cruzeiro",
+      "status": "No elenco",
+      "marca": "O camisa 14 inesquecível"
+    },
+    "estatisticas_resumo": {
+      "posicao": "Meia-armador",
+      "pe_preferido": "Direito",
+      "especialidade": "Visão de jogo e Finalização"
+    },
+    "conquistas_ids": [
+      "carioca-2019",
+      "libertadores-2019",
+      "brasileirao-2019",
+      "supercopa-2020",
+      "recopa-2020",
+      "carioca-2020",
+      "brasileirao-2020",
+      "supercopa-2021",
+      "carioca-2021",
+      "libertadores-2022",
+      "copa-do-brasil-2022",
+      "carioca-2024"
+    ],
+    "momento_chave": "O cruzamento de bicicleta para o gol de empate em Lima e o gol de bicicleta contra o Ceará (Puskás-worthy)."
+  }
+]

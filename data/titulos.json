@@ -1,0 +1,82 @@
+[
+  {
+    "id": "carioca-2020",
+    "titulo": "Campeonato Carioca 2020",
+    "image_url": "https://midias.agazeta.com.br/2020/07/15/flamengo-vence-o-fluminense-e-levanta-a-taca-do-campeonato-carioca-280746-article.jpg",
+    "ano": 2020,
+    "treinador": "Jorge Jesus",
+    "narrativa_torcedor": "O título que selou a passagem meteórica do Mister. Em um Maracanã vazio pela pandemia, o Flamengo mostrou sua força coletiva.",
+    "finais": [
+      {
+        "jogo": 1,
+        "placar": "Fluminense 1 x 2 Flamengo",
+        "gols": [
+          {
+            "jogador_id": "pedro",
+            "minuto": "17'"
+          },
+          {
+            "jogador_id": "michael",
+            "minuto": "74'"
+          }
+        ]
+      },
+      {
+        "jogo": 2,
+        "placar": "Flamengo 1 x 0 Fluminense",
+        "gols": [
+          {
+            "jogador_id": "vitinho",
+            "minuto": "90+4'"
+          }
+        ]
+      }
+    ],
+    "elenco_ids": [
+      "diego-alves",
+      "rafinha",
+      "pedro",
+      "michael",
+      "vitinho",
+      "gerson",
+      "everton-ribeiro"
+    ]
+  },
+  {
+    "id": "libertadores-2019",
+    "titulo": "Copa Libertadores 2019",
+    "image_url": "https://fla-media.mundobola.com/media/2024/06/flamengo_jorgeJesus_2019.jpg",
+    "ano": 2019,
+    "treinador": "Jorge Jesus",
+    "narrativa_torcedor": "O ápice do Rubro-Negrismo moderno. Em 3 minutos, Lima saiu do desespero para a eternidade. O título que apresentou o 'Outro Patamar' ao mundo.",
+    "finais": [
+      {
+        "jogo": "Único",
+        "placar": "Flamengo 2 x 1 River Plate",
+        "gols": [
+          {
+            "jogador_id": "gabigol",
+            "minuto": "89'"
+          },
+          {
+            "jogador_id": "gabigol",
+            "minuto": "90+2'"
+          }
+        ]
+      }
+    ],
+    "elenco_ids": [
+      "gabigol",
+      "bruno-henrique",
+      "de-arrascaeta",
+      "diego-alves",
+      "rafinha",
+      "rodrigo-caio",
+      "pablo-mari",
+      "filipe-luis",
+      "willian-arao",
+      "gerson",
+      "everton-ribeiro"
+    ]
+  }
+]
