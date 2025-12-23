@@ -128,5 +128,147 @@
       "carioca-2024"
     ],
     "momento_chave": "O cruzamento de bicicleta para o gol de empate em Lima e o gol de bicicleta contra o Ceará (Puskás-worthy)."
+  },
+  {
+    "id": "ibson",
+    "nome_popular": "Ibson",
+    "image_url": "https://lncimg.lance.com.br/cdn-cgi/image/width=950,quality=75,fit=pad,format=webp/uploads/2017/05/26/59289e4adf1c2.jpeg",
+    "alcunha": "O Motorzinho da Gávea",
+    "bio_flamenguista": "Cria da Gávea, Ibson personificou a raça rubro-negra em uma das eras mais copeiras do clube. Meio-campista dinâmico, era o pulmão do time que tirou o Flamengo de situações difíceis e o levou de volta ao topo do Rio e do Brasil.",
+    "trajetoria": {
+      "chegada": "2003-01-01",
+      "origem": "Base (Ninho do Urubu)",
+      "status": "Aposentado",
+      "numero_camisa": [
+        "7",
+        "10"
+      ]
+    },
+    "estatisticas_resumo": {
+      "posicao": "Meio-campista",
+      "pe_preferido": "Direito",
+      "perfil_comportamental": "Incansável e Identificado"
+    },
+    "conquistas_ids": [
+      "carioca-2004",
+      "carioca-2008",
+      "carioca-2009",
+      "brasileirao-2009"
+    ],
+    "curiosidade_comunidade": "Sua comemoração fazendo o 'gesto da choradeira' em 2008 tornou-se icônica na provocação ao rival, simbolizando o espírito provocador e vencedor daquele elenco."
+  },
+  {
+    "id": "obina",
+    "nome_popular": "Obina",
+    "image_url": "https://s2.glbimg.com/JjUJjEW6nGcyi4fSgHVzCmeLOvA=/166x0:827x928/400x562/s.glbimg.com/es/ge/f/original/2015/08/17/obina2_glo.jpg",
+    "alcunha": "O Anjo Negro",
+    "bio_flamenguista": "Ninguém personificou melhor a superação do que Obina. De contestado a herói, ele conquistou a Nação com gols providenciais em finais e uma entrega que fazia o Maracanã cantar em uníssono que ele era melhor que os maiores do mundo.",
+    "trajetoria": {
+      "chegada": "2005-02-01",
+      "origem": "Vitória / Al-Ittihad",
+      "status": "Aposentado",
+      "numero_camisa": [
+        "18",
+        "9"
+      ]
+    },
+    "estatisticas_resumo": {
+      "posicao": "Centroavante",
+      "pe_preferido": "Direito",
+      "perfil_comportamental": "Decisivo e Carismático"
+    },
+    "conquistas_ids": [
+      "copa-do-brasil-2006",
+      "carioca-2007",
+      "carioca-2008",
+      "carioca-2009",
+      "brasileirao-2009"
+    ],
+    "curiosidade_comunidade": "Sua música 'Obina é melhor que Eto'o' surgiu após uma sequência de gols decisivos em 2006, comparando-o ao então melhor atacante do mundo que brilhava no Barcelona."
+  },
+  {
+    "id": "leo-moura",
+    "nome_popular": "Léo Moura",
+    "image_url": "https://s2.glbimg.com/8BfbH_HOBC3dSTj6Qc_7qA81CyA=/0x0:1024x1269/320x397/s.glbimg.com/es/ge/f/original/2014/07/29/leomoura_flamengo_gilvandesouza.jpg",
+    "alcunha": "O Eterno Camisa 2",
+    "bio_flamenguista": "Dono da lateral-direita por 10 anos, Léo Moura aliou técnica refinada a uma longevidade impressionante. Capitão em diversas conquistas, ele atravessou diferentes gerações do clube sempre como uma referência de qualidade e amor à camisa.",
+    "trajetoria": {
+      "chegada": "2005-07-12",
+      "origem": "Bragantino / Fluminense",
+      "status": "Aposentado",
+      "numero_camisa": [
+        "2"
+      ]
+    },
+    "estatisticas_resumo": {
+      "posicao": "Lateral-Direito",
+      "pe_preferido": "Direito",
+      "perfil_comportamental": "Técnico e Líder"
+    },
+    "conquistas_ids": [
+      "copa-do-brasil-2006",
+      "carioca-2007",
+      "carioca-2008",
+      "carioca-2009",
+      "brasileirao-2009",
+      "carioca-2011",
+      "copa-do-brasil-2013",
+      "carioca-2014"
+    ],
+    "curiosidade_comunidade": "É um dos raros jogadores que atuou pelos quatro grandes do Rio, mas declarou abertamente que seu coração sempre foi rubro-negro, tornando-se um ídolo geracional na Gávea."
+  },
+  {
+    "id": "ronaldo-angelim",
+    "nome_popular": "Ronaldo Angelim",
+    "image_url": "https://s2-ge.glbimg.com/VTWMpwY6WLseonc8yS24Z2YLMBs=/0x0:1200x910/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2020/4/2/fkzuCBRuWp0OHMlSZM8A/angelim.jpg",
+    "alcunha": "O Magro de Aço",
+    "bio_flamenguista": "Simples, silencioso e implacável. Angelim conquistou a Nação não pelas palavras, mas pela segurança na zaga e pelo momento mais icônico de 2009: o cabeceio certeiro que tirou o grito de 'Hexa' da garganta após 17 anos de espera.",
+    "trajetoria": {
+      "chegada": "2006-01-05",
+      "origem": "Fortaleza",
+      "status": "Aposentado",
+      "numero_camisa": [
+        "4"
+      ]
+    },
+    "estatisticas_resumo": {
+      "posicao": "Zagueiro",
+      "pe_preferido": "Esquerdo",
+      "perfil_comportamental": "Humilde e Decisivo"
+    },
+    "conquistas_ids": [
+      "copa-do-brasil-2006",
+      "carioca-2007",
+      "carioca-2008",
+      "carioca-2009",
+      "brasileirao-2009",
+      "carioca-2011"
+    ],
+    "curiosidade_comunidade": "Sua famosa frase após o título de 2009 resume seu espírito: 'O meu gol foi apenas um detalhe, o importante é que o Flamengo é campeão'."
+  },
+  {
+    "id": "diego-tardelli",
+    "nome_popular": "Diego Tardelli",
+    "image_url": "https://fla-media.mundobola.com/media/2022/02/tardelli-flamengo-atletico-supercopa.jpg",
+    "alcunha": "O Talismã do Carioca",
+    "bio_flamenguista": "Veloz e oportunista, Tardelli foi o herói improvável do bicampeonato carioca em 2008. Sua capacidade de sair do banco e decidir jogos grandes, especialmente com gols nos minutos finais, garantiu seu lugar na galeria de predestinados da Nação.",
+    "trajetoria": {
+      "chegada": "2008-01-15",
+      "origem": "São Paulo / PSV Eindhoven",
+      "status": "Aposentado",
+      "numero_camisa": [
+        "9",
+        "11"
+      ]
+    },
+    "estatisticas_resumo": {
+      "posicao": "Atacante",
+      "pe_preferido": "Direito",
+      "perfil_comportamental": "Oportunista e Veloz"
+    },
+    "conquistas_ids": [
+      "carioca-2008"
+    ],
+    "curiosidade_comunidade": "Seu gol por cobertura contra o Botafogo na final do Carioca de 2008, aos 44 minutos do segundo tempo, é um dos gols mais celebrados daquela década no Maracanã."
   }
 ]

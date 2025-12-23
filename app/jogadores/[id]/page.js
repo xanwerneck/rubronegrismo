@@ -52,11 +52,12 @@ export default async function PaginaJogador({ params }) {
           <p className="text-lg leading-relaxed text-zinc-300">
             {jogador.bio_flamenguista}
           </p>
-          
-          <div className="mt-8 bg-zinc-900 p-6 rounded-lg border-l-4 border-red-600">
-            <h3 className="font-bold text-red-500 uppercase text-sm mb-2">Momento Chave</h3>
-            <p className="italic text-zinc-300">{jogador.momento_chave}</p>
-          </div>
+          {jogador.momento_chave && (
+            <div className="mt-8 bg-zinc-900 p-6 rounded-lg border-l-4 border-red-600">
+              <h3 className="font-bold text-red-500 uppercase text-sm mb-2">Momento Chave</h3>
+              <p className="italic text-zinc-300">{jogador.momento_chave}</p>
+            </div>
+          )}
         </div>
 
         {/* Coluna das Conquistas (O Grafo em ação) */}

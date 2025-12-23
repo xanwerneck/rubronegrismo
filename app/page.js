@@ -2,6 +2,16 @@ import Link from 'next/link';
 
 import jogadores from '../data/jogadores.json';
 
+const shuffle = (array) => {
+  for (let i = array.length - 1; i > 0; i--) {
+    // Generate a random index from 0 to i
+    const j = Math.floor(Math.random() * (i + 1));
+    // Swap elements array[i] and array[j]
+    [array[i], array[j]] = [array[j], array[i]];
+  }
+  return array;
+}
+
 export default function Home() {
   return (
     <main className="min-h-screen bg-zinc-950 text-zinc-100 p-8">
@@ -14,11 +24,11 @@ export default function Home() {
 
       <section>
         <h2 className="text-xl font-bold mb-6 text-red-500 uppercase tracking-widest">
-          Protagonistas de 2019
+          Craques que fizeram e fazem a história Rubro-Negra!
         </h2>
         
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-          {jogadores.map((j) => (
+          {shuffle(jogadores).map((j) => (
             <Link href={`/jogadores/${j.id}`} key={j.id}>
               <div className="bg-zinc-900 border border-zinc-800 p-6 rounded-lg hover:border-red-600 cursor-pointer transition-all group">
                 <span className="text-xs font-mono text-zinc-500">ID: {j.id}</span>

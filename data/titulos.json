@@ -78,5 +78,58 @@
       "gerson",
       "everton-ribeiro"
     ]
+  },
+  {
+    "id": "carioca-2008",
+    "titulo": "Campeonato Carioca 2008",
+    "image_url": "https://http2.mlstatic.com/D_NQ_NP_2X_718977-MLB48771807430_012022-F.webp",
+    "ano": 2008,
+    "treinador": "Joel Santana",
+    "narrativa_torcedor": "O ano do 'Chororô'. Com o carisma de Papai Joel e a estrela de Obina, o Flamengo superou o Botafogo e provou que o Rio de Janeiro é território rubro-negro.",
+    "finais": [
+      {
+        "jogo": 1,
+        "placar": "Flamengo 1 x 0 Botafogo",
+        "gols": [
+          {
+            "jogador_id": "obina",
+            "minuto": "80'"
+          }
+        ]
+      },
+      {
+        "jogo": 2,
+        "placar": "Botafogo 1 x 3 Flamengo",
+        "gols": [
+          {
+            "jogador_id": "obina",
+            "minuto": "48'"
+          },
+          {
+            "jogador_id": "obina",
+            "minuto": "90+2'"
+          },
+          {
+            "jogador_id": "diego-tardelli",
+            "minuto": "81'"
+          }
+        ]
+      }
+    ],
+    "elenco_ids": [
+      "bruno",
+      "leo-moura",
+      "fabio-luciano",
+      "ronaldo-angelim",
+      "juan",
+      "cristian",
+      "kleberson",
+      "ibson",
+      "toró",
+      "marcinho",
+      "souza",
+      "obina",
+      "diego-tardelli"
+    ]
   }
 ]
