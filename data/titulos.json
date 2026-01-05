@@ -131,5 +131,50 @@
       "obina",
       "diego-tardelli"
     ]
+  },
+  {
+    "id": "carioca-2014",
+    "titulo": "Campeonato Carioca 2014",
+    "image_url": "/images/titulos/carioca-2014.jpg",
+    "ano": 2014,
+    "treinador": "Jayme de Almeida",
+    "narrativa_torcedor": "O título do 'até o fim'. Contra um rival que jogava pelo empate, o Flamengo lutou até o último minuto para encontrar o gol da glória, reafirmando que no Rio de Janeiro a mística rubro-negra sempre prevalece.",
+    "finais": [
+      {
+        "jogo": 1,
+        "placar": "Vasco 1 x 1 Flamengo",
+        "gols": [
+          {
+            "jogador_id": "paulinho",
+            "minuto": "20'"
+          }
+        ]
+      },
+      {
+        "jogo": 2,
+        "placar": "Flamengo 1 x 1 Vasco",
+        "gols": [
+          {
+            "jogador_id": "marcio-araujo",
+            "minuto": "90+1'"
+          }
+        ]
+      }
+    ],
+    "elenco_ids": [
+      "felipe",
+      "leo-moura",
+      "wallace",
+      "samir",
+      "joao-paulo",
+      "amaral",
+      "marcio-araujo",
+      "muralha",
+      "everton",
+      "paulinho",
+      "alecsandro",
+      "luiz-antonio",
+      "hernan"
+    ]
   }
 ]
