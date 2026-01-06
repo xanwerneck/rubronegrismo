@@ -274,22 +274,157 @@
   {
     "id": "arthur-friedenreich",
     "nome_popular": "Friedenreich",
-    "nome_completo": "Arthur Friedenreich",
-    "posicao": "Atacante",
-    "periodo_fla": "1934-1935",
-    "nascimento": "18/07/1892",
-    "nacionalidade": "Brasileiro",
     "image_url": "/images/jogadores/friedenreich.webp",
-    "narrativa_torcedor": "O 'Tigre'. O primeiro grande gênio do futebol brasileiro. Já veterano, trouxe sua lenda para a Gávea, ajudando a consolidar o Flamengo como o clube do povo em uma época de transição para o profissionalismo.",
-    "estatisticas": {
-      "jogos": 22,
-      "gols": 10
+    "alcunha": "O Tigre",
+    "bio_flamenguista": "Considerado a primeira grande estrela do futebol brasileiro, Friedenreich trouxe seu prestígio lendário para a Gávea no fim de sua carreira. Sua técnica refinada e o status de mito ajudaram a popularizar o Flamengo em uma década de profunda transformação para o clube.",
+    "trajetoria": {
+      "chegada": "1934-04-01",
+      "origem": "São Paulo da Floresta",
+      "status": "In memoriam",
+      "numero_camisa": [
+        "9"
+      ]
     },
-    "curiosidade": "Diz a lenda que Friedenreich marcou mais de 1300 gols na carreira, superando Pelé, embora os registros da época sejam imprecisos. No Flamengo, ele estreou com vitória sobre o Bangu.",
-    "tags": [
-      "Lenda",
-      "Pioneiro",
-      "Anos 30"
-    ]
+    "estatisticas_resumo": {
+      "posicao": "Atacante",
+      "pe_preferido": "Direito",
+      "perfil_comportamental": "Técnico e Finalizador"
+    },
+    "conquistas_ids": [],
+    "curiosidade_comunidade": "Embora os registros da época variem, Friedenreich é frequentemente citado como o homem que superou a marca de 1300 gols na carreira. Sua estreia no Flamengo foi um evento nacional que paralisou o Rio de Janeiro."
+  },
+  {
+    "id": "adriano-imperador",
+    "nome_popular": "Adriano Imperador",
+    "image_url": "/images/jogadores/adriano-imperador.webp",
+    "alcunha": "O Imperador",
+    "bio_flamenguista": "Cria da Gávea, Adriano personificou o espírito rubro-negro ao retornar no auge para resgatar o orgulho da Nação. Sua força física sobre-humana e sua canhota devastadora foram os pilares do Hexacampeonato Brasileiro, transformando o Maracanã em seu império particular.",
+    "trajetoria": {
+      "chegada": "2009-05-06",
+      "origem": "Internazionale (ITA)",
+      "status": "Aposentado",
+      "numero_camisa": [
+        "9",
+        "10"
+      ]
+    },
+    "estatisticas_resumo": {
+      "posicao": "Centroavante",
+      "pe_preferido": "Esquerdo",
+      "perfil_comportamental": "Dominante e Físico"
+    },
+    "conquistas_ids": [
+      "brasileirao-2009",
+      "carioca-2000",
+      "copa-dos-campeoes-2001"
+    ],
+    "curiosidade_comunidade": "Em 2009, Adriano abriu mão de salários milionários na Europa para buscar a felicidade na Vila Cruzeiro e no Flamengo, terminando o ano como artilheiro e campeão do Brasil."
+  },
+  {
+    "id": "julio-cesar",
+    "nome_popular": "Júlio César",
+    "image_url": "/images/jogadores/julio-cesar.jpeg",
+    "alcunha": "O Espantalho",
+    "bio_flamenguista": "Formado na base, Júlio César foi o guardião do Flamengo em anos de superação. Suas defesas milagrosas e sua paixão declarada pelo clube o tornaram um dos goleiros mais amados da história, sendo peça fundamental no tri carioca de 1999-2001.",
+    "trajetoria": {
+      "chegada": "1997-01-01",
+      "origem": "Categorias de Base",
+      "status": "Aposentado",
+      "numero_camisa": [
+        "1"
+      ]
+    },
+    "estatisticas_resumo": {
+      "posicao": "Goleiro",
+      "pe_preferido": "Esquerdo",
+      "perfil_comportamental": "Ágil e Liderança"
+    },
+    "conquistas_ids": [
+      "mercocul-1999",
+      "carioca-1999",
+      "carioca-2000",
+      "carioca-2001",
+      "copa-dos-campeoes-2001",
+      "carioca-2004"
+    ],
+    "curiosidade_comunidade": "Sua despedida em 2018, em um Maracanã lotado, foi um dos momentos mais emocionantes da história recente, selando uma vida inteira de dedicação ao Manto."
+  },
+  {
+    "id": "dida",
+    "nome_popular": "Dida",
+    "image_url": "/images/jogadores/dida.jpg",
+    "alcunha": "O sucessor de Zizinho",
+    "bio_flamenguista": "Segundo maior artilheiro da história do Flamengo, Dida foi o grande ídolo de Zico na infância. Mestre na arte de fazer gols, foi o protagonista do segundo tricampeonato carioca (1953-55) e um dos jogadores mais cerebrais que já passaram pela Gávea.",
+    "trajetoria": {
+      "chegada": "1954-03-10",
+      "origem": "CSA",
+      "status": "In memoriam",
+      "numero_camisa": [
+        "10"
+      ]
+    },
+    "estatisticas_resumo": {
+      "posicao": "Meia-Atacante",
+      "pe_preferido": "Direito",
+      "perfil_comportamental": "Finalizador e Inteligente"
+    },
+    "conquistas_ids": [
+      "carioca-1954",
+      "carioca-1955",
+      "rio-sao-paulo-1961"
+    ],
+    "curiosidade_comunidade": "Dida marcou 264 gols pelo Flamengo. Ele era conhecido por sua humildade extrema, apesar de ser um dos maiores gênios da história do futebol mundial."
+  },
+  {
+    "id": "zizinho",
+    "nome_popular": "Zizinho",
+    "image_url": "/images/jogadores/zizinho.jpg",
+    "alcunha": "Mestre Ziza",
+    "bio_flamenguista": "Para muitos, o maior jogador do Flamengo antes da Era Zico. Zizinho era o mestre da técnica, do drible e da visão de jogo. Liderou o primeiro Tri Estadual da história do clube e se tornou a referência máxima de elegância em campo.",
+    "trajetoria": {
+      "chegada": "1939-10-01",
+      "origem": "Byron-RJ",
+      "status": "In memoriam",
+      "numero_camisa": [
+        "8",
+        "10"
+      ]
+    },
+    "estatisticas_resumo": {
+      "posicao": "Meia-Armador",
+      "pe_preferido": "Direito",
+      "perfil_comportamental": "Gênio e Técnico"
+    },
+    "conquistas_ids": [
+      "carioca-1939",
+      "carioca-1942",
+      "carioca-1943",
+      "carioca-1944"
+    ],
+    "curiosidade_comunidade": "Pelé sempre citou Zizinho como seu maior ídolo e a maior inspiração que teve no futebol. Ele foi o regente do time que consolidou a popularidade do Flamengo nos anos 40."
+  },
+  {
+    "id": "leonidas-da-silva",
+    "nome_popular": "Leônidas da Silva",
+    "image_url": "/images/jogadores/leonidas.jpg",
+    "alcunha": "Diamante Negro",
+    "bio_flamenguista": "O inventor da bicicleta. Leônidas foi a primeira superestrela global do futebol brasileiro. No Flamengo, foi o símbolo da integração racial e o craque que guiou o clube ao título de 1939, encerrando um jejum e iniciando uma era de glórias.",
+    "trajetoria": {
+      "chegada": "1936-01-01",
+      "origem": "Botafogo",
+      "status": "In memoriam",
+      "numero_camisa": [
+        "9"
+      ]
+    },
+    "estatisticas_resumo": {
+      "posicao": "Atacante",
+      "pe_preferido": "Ambos",
+      "perfil_comportamental": "Acrobático e Imprevisível"
+    },
+    "conquistas_ids": [
+      "carioca-1939"
+    ],
+    "curiosidade_comunidade": "Sua popularidade era tão imensa que ele se tornou o primeiro atleta a virar marca de chocolate (o Diamante Negro), algo inédito para a época."
   }
 ]
