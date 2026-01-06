@@ -270,5 +270,26 @@
       "carioca-2008"
     ],
     "curiosidade_comunidade": "Seu gol por cobertura contra o Botafogo na final do Carioca de 2008, aos 44 minutos do segundo tempo, é um dos gols mais celebrados daquela década no Maracanã."
+  },
+  {
+    "id": "arthur-friedenreich",
+    "nome_popular": "Friedenreich",
+    "nome_completo": "Arthur Friedenreich",
+    "posicao": "Atacante",
+    "periodo_fla": "1934-1935",
+    "nascimento": "18/07/1892",
+    "nacionalidade": "Brasileiro",
+    "image_url": "/images/jogadores/friedenreich.webp",
+    "narrativa_torcedor": "O 'Tigre'. O primeiro grande gênio do futebol brasileiro. Já veterano, trouxe sua lenda para a Gávea, ajudando a consolidar o Flamengo como o clube do povo em uma época de transição para o profissionalismo.",
+    "estatisticas": {
+      "jogos": 22,
+      "gols": 10
+    },
+    "curiosidade": "Diz a lenda que Friedenreich marcou mais de 1300 gols na carreira, superando Pelé, embora os registros da época sejam imprecisos. No Flamengo, ele estreou com vitória sobre o Bangu.",
+    "tags": [
+      "Lenda",
+      "Pioneiro",
+      "Anos 30"
+    ]
   }
 ]
