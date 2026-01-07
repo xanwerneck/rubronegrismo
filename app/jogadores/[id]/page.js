@@ -1,8 +1,8 @@
 import Link from 'next/link';
 import Image from 'next/image';
 
-import jogadores from '../../../data/jogadores.json';
-import titulos from '../../../data/titulos.json';
+import jogadores from '@/data/jogadores.json';
+import titulos from '@/data/titulos.json';
 
 export default async function PaginaJogador({ params }) {
   const { id } = await params;

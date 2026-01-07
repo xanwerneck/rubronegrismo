@@ -10,6 +10,8 @@ services:
       - MONGO_URI=mongodb://db:27017/rubronegrismo
     depends_on:
       - db
+    env_file:
+      - .env..env.local
 
   db:
     image: mongo:latest
