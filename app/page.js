@@ -1,6 +1,7 @@
 import Link from 'next/link';
 
 import jogadores from '../data/jogadores.json';
+import Header from '@/components/Header';
 
 const shuffle = (array) => {
   for (let i = array.length - 1; i > 0; i--) {
@@ -9,24 +10,43 @@ const shuffle = (array) => {
     // Swap elements array[i] and array[j]
     [array[i], array[j]] = [array[j], array[i]];
   }
-  return array;
+  return array.slice(0,3);
 }
 
 export default function Home() {
   return (
-    <main className="min-h-screen bg-zinc-950 text-zinc-100 p-8">
-      <header className="mb-12 border-l-8 border-red-600 pl-4">
-        <h1 className="text-5xl font-black tracking-tighter uppercase italic">
-          Rubro-Negrismo
-        </h1>
-        <p className="text-zinc-400">O Grafo de Conhecimento da Nação.</p>
-      </header>
+    <main className="bg-brand-black min-h-screen">
+      <Header />
 
-      <section>
-        <h2 className="text-xl font-bold mb-6 text-red-500 uppercase tracking-widest">
-          Craques que fizeram e fazem a história Rubro-Negra!
-        </h2>
+      <section className="relative h-[70vh] flex items-center justify-center overflow-hidden">
         
+        <div className="absolute inset-0 bg-gradient-to-t from-brand-black via-transparent to-transparent z-10" />
+        
+        <div className="text-center z-20 px-4">
+          <h1 className="text-6xl md:text-8xl font-black text-white uppercase italic tracking-tighter mb-4">
+            A História é <br />
+            <span className="text-brand-red">Eterna.</span>
+          </h1>
+          <p className="text-gray-400 max-w-xl mx-auto text-lg mb-8">
+            Explore o acervo digital definitivo sobre o Clube de Regatas do Flamengo. 
+            Fichas técnicas, histórias e o legado de quem vestiu o Manto.
+          </p>
+          <div className="flex gap-4 justify-center">
+            <button className="bg-brand-red text-white px-8 py-3 font-bold uppercase tracking-widest hover:bg-red-700 transition-all">
+              Explorar Acervo
+            </button>
+            <a href="/contribuidor" className="border border-gray-700 text-white px-8 py-3 font-bold uppercase tracking-widest hover:bg-white/10 transition-all">
+              Seja um Historiador
+            </a>
+          </div>
+        </div>
+      </section>
+      
+      <section className="container mx-auto px-4 py-20">
+        <h2 className="text-2xl font-bold text-white uppercase mb-10 flex items-center gap-4">
+          <span className="w-12 h-[2px] bg-brand-red"></span>
+          Destaques do Acervo
+        </h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
           {shuffle(jogadores).map((j) => (
             <Link href={`/jogadores/${j.id}`} key={j.id}>
