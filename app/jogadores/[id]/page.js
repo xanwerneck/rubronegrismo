@@ -4,6 +4,7 @@ import Image from 'next/image';
 import jogadores from '@/data/jogadores.json';
 import titulos from '@/data/titulos.json';
 import Header from '@/components/Header';
+import VozDaArquibancada from '@/components/VozDaArquibancada';
 
 export default async function PaginaJogador({ params }) {
   const { id } = await params;
@@ -62,6 +63,10 @@ export default async function PaginaJogador({ params }) {
                 <p className="italic text-zinc-300">{jogador.momento_chave}</p>
               </div>
             )}
+          </div>
+
+          <div className="md:col-span-2">
+            <VozDaArquibancada jogador={jogador} />
           </div>
 
           {/* Coluna das Conquistas (O Grafo em ação) */}

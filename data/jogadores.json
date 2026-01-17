@@ -127,7 +127,17 @@
       "copa-do-brasil-2022",
       "carioca-2024"
     ],
-    "momento_chave": "O cruzamento de bicicleta para o gol de empate em Lima e o gol de bicicleta contra o Ceará (Puskás-worthy)."
+    "momento_chave": "O cruzamento de bicicleta para o gol de empate em Lima e o gol de bicicleta contra o Ceará (Puskás-worthy).",
+    "relatos_torcida": [
+      {
+        "autor": "@MantoSagrado81",
+        "texto": "O que mais me impressiona no Arrasca não são os gols, mas a frieza. Lembro da assistência dele pro Gabigol em 2019... Ele não corre, ele flutua em campo."
+      },
+      {
+        "autor": "u/FanaticoDaGavea",
+        "texto": "Fui ao Maracanã em 2019 ver o 3x0 contra o Palmeiras... Ele tem aquela cara de quem está com sono, mas quando a bola chega no pé dele, o estádio inteiro levanta!"
+      }
+    ]
   },
   {
     "id": "ibson",
@@ -426,5 +436,79 @@
       "carioca-1939"
     ],
     "curiosidade_comunidade": "Sua popularidade era tão imensa que ele se tornou o primeiro atleta a virar marca de chocolate (o Diamante Negro), algo inédito para a época."
+  },
+  {
+    "id": "lucas-paqueta",
+    "nome_popular": "Lucas Paquetá",
+    "alcunha": "O Garoto do Ninho",
+    "image_url": "/images/jogadores/lucas-paqueta.jpg",
+    "bio_flamenguista": "Cria da Gávea que conquistou o mundo com sua ginga e polivalência. Paquetá representa a essência do futebol brasileiro e o DNA do Flamengo: habilidade, entrega e um amor declarado ao Manto que o projetou para a Europa.",
+    "trajetoria": {
+      "chegada": "2016-02-19",
+      "origem": "Categorias de Base (Ninho do Urubu)",
+      "status": "Em negociação (West Ham)",
+      "marca": "A eterna joia da camisa 11"
+    },
+    "estatisticas_resumo": {
+      "posicao": "Meio-campista / Meia-atacante",
+      "pe_preferido": "Esquerdo",
+      "especialidade": "Drible, Passe Curto e Intensidade"
+    },
+    "conquistas_ids": [
+      "carioca-sub20-2015",
+      "copa-sao-paulo-2016",
+      "carioca-2017",
+      "taca-guanabara-2018"
+    ],
+    "momento_chave": "A atuação de gala na final da Copa do Brasil 2017 e a despedida emocionante no Maracanã em 2018, sob o canto da torcida pedindo sua volta.",
+    "relatos_torcida": [
+      {
+        "autor": "@FlazinhoOficial",
+        "texto": "Ver o Paquetá jogar é ver um torcedor dentro de campo. Ele sentia cada lance. O retorno dele não é só reforço técnico, é o resgate da nossa identidade."
+      },
+      {
+        "autor": "u/BaseForteGavea",
+        "texto": "Lembro dele na Copinha de 2016, já dava pra ver que era diferente. Se ele voltar agora no auge, vira ídolo supremo em seis meses. O Paquetá é muito a cara do Rio!"
+      }
+    ]
+  },
+  {
+    "id": "athirson",
+    "nome_popular": "Athirson",
+    "image_url": "/images/jogadores/athirson.jpg",
+    "alcunha": "O Galinho da Lateral",
+    "bio_flamenguista": "Dono de uma arrancada imparável e um pé esquerdo calibrado, Athirson transformou a lateral-esquerda em um corredor de ataque. Cria da base, ele carregou o peso do Manto em tempos difíceis com uma técnica que o tornava, muitas vezes, o principal articulador do time.",
+    "trajetoria": {
+      "chegada": "1996-01-01",
+      "origem": "Categorias de Base (Ninho do Urubu)",
+      "status": "Aposentado (Ídolo Histórico)",
+      "marca": "O dono do corredor esquerdo"
+    },
+    "estatisticas_resumo": {
+      "posicao": "Lateral-esquerdo",
+      "pe_preferido": "Esquerdo",
+      "especialidade": "Cruzamentos, Apoio Ofensivo e Chutes de Longa Distância"
+    },
+    "conquistas_ids": [
+      "copa-sao-paulo-1990",
+      "carioca-1996",
+      "copa-de-ouro-sul-americana-1996",
+      "copa-mercosul-1999",
+      "carioca-1999",
+      "carioca-2000",
+      "copa-dos-campeoes-2001",
+      "carioca-2004"
+    ],
+    "momento_chave": "A atuação antológica na final da Mercosul em 1999 e seus gols decisivos em clássicos, onde sua subida ao ataque era o terror dos rivais no Maracanã.",
+    "relatos_torcida": [
+      {
+        "autor": "@MemoriaRubroNegra",
+        "texto": "Muita gente esquece que o Athirson era praticamente um ponta. O que ele jogou entre 98 e 2000 foi brincadeira, merecia ter sido titular em Copa do Mundo."
+      },
+      {
+        "autor": "u/VelhaGuardaFla",
+        "texto": "Lembro dele saindo da defesa costurando todo mundo. Quando o locutor gritava 'Lá vem Athirson!', a gente já sabia que ia sair cruzamento bom ou pancada no gol."
+      }
+    ]
   }
 ]
